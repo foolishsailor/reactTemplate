@@ -1,0 +1,15 @@
+{
+	"useTabs": true,
+	"semi": true,
+	"singleQuote": true,
+	"quoteProps": "preserve",
+	"overrides": [
+		{
+			"files": "package.json",
+			"options": {
+				"useTabs": false,
+				"tabWidth": 2
+			}
+		}
+	]
+}
